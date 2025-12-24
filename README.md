@@ -1,6 +1,6 @@
 # Machine Learning estimation of creditworthiness
 
-This repository contains an end-to-end machine learning project to estimate a bank customer’s **creditworthiness** and support decisions on **credit card issuance**. The goal is to build a model that predicts a binary TARGET where 1 = high creditworthiness (consistent installment payments) and 0 = otherwise, using anonymized customer profile data. The project addresses practical ML challenges, such as handling of mixed data types, class-imbalance strategies and evaluation with metrics that reflect real-world trade-offs. The full project is contained in the [`creditworthiness_ml_estimation.ipynb`](https://github.com/lgucrl/machine-learning-creditworthiness-estimation/blob/main/creditworthiness_ml_estimation.ipynb) notebook.
+This repository contains an end-to-end machine learning project in Python to estimate a bank customer’s **creditworthiness** and support decisions on **credit card issuance**. The goal is to build a model that predicts a binary TARGET where 1 = high creditworthiness (consistent installment payments) and 0 = otherwise, using anonymized customer profile data. The project addresses different  ML challenges, such as handling of mixed data types, class-imbalance strategies and evaluation with metrics that reflect real-world trade-offs. The full project is contained in the [`creditworthiness_ml_estimation.ipynb`](https://github.com/lgucrl/machine-learning-creditworthiness-estimation/blob/main/creditworthiness_ml_estimation.ipynb) notebook.
 
 ---
 
